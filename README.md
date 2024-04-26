@@ -6,4 +6,4 @@ This project is created from local system
 
 created by Aditya Sharma
 
-I learned new git and github today
+I learned git and github today
